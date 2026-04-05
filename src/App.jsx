@@ -20,7 +20,7 @@ import Count from './component/count'
 //   function handleClick() {
 //     setResult("No")
 //   }
-//   // console.log(result);
+
 
 
 //   return (
